@@ -1,0 +1,10 @@
+title: Tableero
+description: Personal site powered by Jekyll and GitHub Pages.
+url: "https://tableero.github.io"
+baseurl: ""
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
